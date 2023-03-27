@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"the susnshine","image":"https://images.unsplash.com/photo-1492684223066-81342ee5ff30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZXZlbnR8ZW58MHx8MHx8&w=1000&q=80","date":"2023-03-25","description":"the sunshine event most ly","id":"b1c51960-6979-442d-8a4c-9652ab9462a2"},{"title":"A new event","image":"https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg","date":"2022-10-12","description":"Some awesome event!","id":"2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"}],"users":[{"email":"mukeshjamod28@gmail.com","password":"$2a$12$c5XJ0VeSsoy1sYwLcQL/mebllrpzNWZVZBSugGLg24QtIu1rNCdg6","id":"189f8cce-fe3f-4e8b-97ff-820cafe80b05"},{"email":"mukeshjamod2@gmail.com","password":"$2a$12$G.dxWpwJOHTdEv8GEeSCfeTge3p/ByG5zGFCCYyybYS.LO4QEMOni","id":"44fc05c1-1945-478e-b089-5455c2a273a4"},{"email":"MUKESH27@gmail.com","password":"$2a$12$Of/ONs4l48Cn7fF908NMw./wSjM4gKNorQwvXFKUxWHt27Z/gDrkm","id":"66fb9008-cf01-4b63-8fbc-eb07909b32f1"}]}
